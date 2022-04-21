@@ -1,12 +1,12 @@
 ## Introduction
-In this project we are going to design a circuit for measuring temperature. This circuit is developed using “Atmega328”, a linear voltage sensor. Temperature is usually measured in “Centigrade” or “Faraheite”.And used the SimuleIDE Software
+In this project we are going to design a circuit for measuring heat. This circuit is developed using “Atmega328”, a linear voltage sensor.Heat is usually measured in “Centigrade” or “Faranheit” and used the SimuleIDE Software
 
 
 # **Features:**
 
 - Low Cost 
 - Checks if the driver is seated or not.
-- Can modify the temperature according to the passenger.
+- Can modify the heat according to the passenger.
 - Robust System
 
 ## Details requirements
@@ -28,7 +28,7 @@ In this project we are going to design a circuit for measuring temperature. This
 
 **Strength:**
 
-- Temperature modification can be done easily.
+- Heat modification can be done easily.
 - Cost effective.
 - Heat generation is fast.
 
@@ -51,7 +51,7 @@ In this project we are going to design a circuit for measuring temperature. This
 To maintain the heat in the vehicles in cold weather.
 
 **What:**
-Temperature measurement system to measure,control and generate heat.
+Heat measurement system to measure,control and generate heat.
 
 **Where:**
 Automotive Industry.
