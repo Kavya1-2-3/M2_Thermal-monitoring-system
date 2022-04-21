@@ -15,7 +15,7 @@ int main(void)
             TurnLED_ON();//Turn LED ON
             temp=thermal2_GetADC(); //Get the ADC value
             thermal3_PWM(temp); //PWM output based on temperature
-		    t4_USARTWrite(temp); //To Serial monitor to print Temperature
+		    thermal4_USARTWrite(temp); //To Serial monitor to print Temperature
             
 
         }
