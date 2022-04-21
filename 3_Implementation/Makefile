@@ -1,13 +1,13 @@
-PROJ_NAME = Temp
+PROJ_NAME = Thermal
 
 BUILD_DIR = Build
 
 # All Source code files
 SRC = main.c\
-src/t1.c\
-src/t2.c\
-src/t3.c\
-src/t4.c\
+src/thermal1.c\
+src/thermal2.c\
+src/thermal3.c\
+src/thermal4.c\
 
 
 #Object copy to create hexfile
