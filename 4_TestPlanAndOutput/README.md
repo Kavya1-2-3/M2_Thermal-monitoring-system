@@ -14,5 +14,7 @@
 | L_01  |Open the app           | PASSED       |SUCESS      | 
 | L_03  |Reserve seat           | PASSED       |SUCCESS     |
 
+### OUTPUT
+![image](https://user-images.githubusercontent.com/101272208/164484331-42e5acaf-c4e8-4819-ae4e-00c039f9a939.png)
 
 
