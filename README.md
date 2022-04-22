@@ -30,6 +30,9 @@
 [![Valgrind](https://github.com/Kavya1-2-3/M2_Thermal-monitoring-system/actions/workflows/Valgrind.yml/badge.svg)](https://github.com/Kavya1-2-3/M2_Thermal-monitoring-system/actions/workflows/Valgrind.yml)
 
 ## Unit Testing
+[![Unit testing](https://github.com/Kavya1-2-3/M2_Thermal-monitoring-system/actions/workflows/unit-test.yml/badge.svg)](https://github.com/Kavya1-2-3/M2_Thermal-monitoring-system/actions/workflows/unit-test.yml)
+
+## CI passing
 
 
 ## Folder Structure
