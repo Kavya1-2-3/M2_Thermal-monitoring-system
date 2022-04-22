@@ -1,3 +1,5 @@
+## Badges
+
 ![image](https://user-images.githubusercontent.com/101272208/164586666-2be7e792-ee98-400e-a12e-d39a4de2cbf5.png)
 
 ![image](https://user-images.githubusercontent.com/101272208/164586481-a70fa851-0654-4e77-8698-5b2a5e53632e.png)
