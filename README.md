@@ -27,6 +27,9 @@
 [![Contribution Check - Git Inspector](https://github.com/Kavya1-2-3/M2_Thermal-monitoring-system/actions/workflows/git_inspector.yml/badge.svg)](https://github.com/Kavya1-2-3/M2_Thermal-monitoring-system/actions/workflows/git_inspector.yml)
 
 ## Valgrind
+[![Valgrind](https://github.com/Kavya1-2-3/M2_Thermal-monitoring-system/actions/workflows/Valgrind.yml/badge.svg)](https://github.com/Kavya1-2-3/M2_Thermal-monitoring-system/actions/workflows/Valgrind.yml)
+
+## Unit Testing
 
 
 ## Folder Structure
