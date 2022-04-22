@@ -24,6 +24,10 @@
 [![Analysis](https://github.com/Kavya1-2-3/M2_Thermal-monitoring-system/actions/workflows/Analysis.yml/badge.svg)](https://github.com/Kavya1-2-3/M2_Thermal-monitoring-system/actions/workflows/Analysis.yml)
 
 ## Git Inspector
+[![Contribution Check - Git Inspector](https://github.com/Kavya1-2-3/M2_Thermal-monitoring-system/actions/workflows/git_inspector.yml/badge.svg)](https://github.com/Kavya1-2-3/M2_Thermal-monitoring-system/actions/workflows/git_inspector.yml)
+
+## Valgrind
+
 
 ## Folder Structure
 
