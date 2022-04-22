@@ -1,3 +1,8 @@
+![image](https://user-images.githubusercontent.com/101272208/164586666-2be7e792-ee98-400e-a12e-d39a4de2cbf5.png)
+
+![image](https://user-images.githubusercontent.com/101272208/164586481-a70fa851-0654-4e77-8698-5b2a5e53632e.png)
+
+![image](https://user-images.githubusercontent.com/101272208/164586445-22f7ffb6-c348-46fc-bf3b-8fcb351c13d7.png)
 
 [![Codacy Badge](https://app.codacy.com/project/badge/Grade/304c265dd1ae4e34a3c86f5a508822cb)](https://www.codacy.com/gh/Kavya1-2-3/M2_Thermal-monitoring-system/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=Kavya1-2-3/M2_Thermal-monitoring-system&amp;utm_campaign=Badge_Grade)
 
