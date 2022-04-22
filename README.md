@@ -18,6 +18,9 @@
 [![Build CI - Windows](https://github.com/Kavya1-2-3/M2_Thermal-monitoring-system/actions/workflows/Build_Windows.yml/badge.svg)](https://github.com/Kavya1-2-3/M2_Thermal-monitoring-system/actions/workflows/Build_Windows.yml)
 
 ## Build-Linux 
+[![Build CI -Linux](https://github.com/Kavya1-2-3/M2_Thermal-monitoring-system/actions/workflows/Build_Linux.yml/badge.svg)](https://github.com/Kavya1-2-3/M2_Thermal-monitoring-system/actions/workflows/Build_Linux.yml)
+
+## Analysis
 
 ## Folder Structure
 
