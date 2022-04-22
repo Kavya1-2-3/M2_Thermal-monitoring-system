@@ -14,8 +14,10 @@
 ## cppcheck action
 [![cppcheck-action](https://github.com/Kavya1-2-3/M2_Thermal-monitoring-system/actions/workflows/c-cpp.yml/badge.svg)](https://github.com/Kavya1-2-3/M2_Thermal-monitoring-system/actions/workflows/c-cpp.yml)
 
-## Build Windows
+## Build-Windows
+[![Build CI - Windows](https://github.com/Kavya1-2-3/M2_Thermal-monitoring-system/actions/workflows/Build_Windows.yml/badge.svg)](https://github.com/Kavya1-2-3/M2_Thermal-monitoring-system/actions/workflows/Build_Windows.yml)
 
+## Build-Linux 
 
 ## Folder Structure
 
