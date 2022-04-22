@@ -33,7 +33,7 @@
 [![Unit testing](https://github.com/Kavya1-2-3/M2_Thermal-monitoring-system/actions/workflows/unit-test.yml/badge.svg)](https://github.com/Kavya1-2-3/M2_Thermal-monitoring-system/actions/workflows/unit-test.yml)
 
 ## CI passing
-
+[![CI](https://github.com/Kavya1-2-3/M2_Thermal-monitoring-system/actions/workflows/Cl.yml/badge.svg)](https://github.com/Kavya1-2-3/M2_Thermal-monitoring-system/actions/workflows/Cl.yml)
 
 ## Folder Structure
 
