@@ -21,6 +21,9 @@
 [![Build CI -Linux](https://github.com/Kavya1-2-3/M2_Thermal-monitoring-system/actions/workflows/Build_Linux.yml/badge.svg)](https://github.com/Kavya1-2-3/M2_Thermal-monitoring-system/actions/workflows/Build_Linux.yml)
 
 ## Analysis
+[![Analysis](https://github.com/Kavya1-2-3/M2_Thermal-monitoring-system/actions/workflows/Analysis.yml/badge.svg)](https://github.com/Kavya1-2-3/M2_Thermal-monitoring-system/actions/workflows/Analysis.yml)
+
+## Git Inspector
 
 ## Folder Structure
 
